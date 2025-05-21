@@ -4,8 +4,13 @@
     ```
     python -m venv .venv
     ```
+    
+2. Activate the virtual environment:
+    ```
+    .venv\Scripts\activate.bat
+    ```
 
-2. Install dependencies:
+3. Install dependencies:
     ```
     pip install -r requirements.txt
     ```
