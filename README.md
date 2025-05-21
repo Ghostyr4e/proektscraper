@@ -7,7 +7,7 @@
     
 2. Activate the virtual environment:
     ```
-    .venv\Scripts\activate.bat
+    .\.venv\Scripts\activate
     ```
 
 3. Install dependencies:
